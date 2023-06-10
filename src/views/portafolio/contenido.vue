@@ -96,7 +96,106 @@
     </div>
   </div>
 </div>
+
     </div>
+    <div class="col">
+    <div class="card border-info mb-3">  
+        <h5 class="card-body text-info"> Contenidos Computo III</h5>
+        <div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingfourteen">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefourteen" aria-expanded="false" aria-controls="flush-collapsefourteen">
+        Semana 14
+      </button>
+    </h2>
+    <div id="flush-collapsefourteen" class="accordion-collapse collapse" aria-labelledby="flush-headingfourteen" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: SISTEMA DE RUTAS Y CONTROLADORES Fecha: DEL 24 AL 30 DE ABRIL</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingfifteen">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefifteen" aria-expanded="false" aria-controls="flush-collapseTwo">
+        Semana 15
+      </button>
+    </h2>
+    <div id="flush-collapsefifteen" class="accordion-collapse collapse" aria-labelledby="flush-headingfifteen" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: VALIDACIÓN DE DATOS (RUTAS, VISTAS, FORMULARIOS Y CONTROLADORES) | BLADE | LARAVEL/U Fecha: DEL 02 AL 07 DE MAYO</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading6">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse6" aria-expanded="false" aria-controls="flush-collapse6">
+         Semana 16
+      </button>
+    </h2>
+    <div id="flush-collapse6" class="accordion-collapse collapse" aria-labelledby="flush-heading6" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: API REST con Laravel Fecha: DEL 08 AL 14 DE MAYO</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading7">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse7" aria-expanded="false" aria-controls="flush-collapse7">
+         Semana 17
+      </button>
+    </h2>
+    <div id="flush-collapse7" class="accordion-collapse collapse" aria-labelledby="flush-heading7" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: AUTENTICACION API REST Fecha: DEL 15 AL 21 DE MAYO</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading8">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse8" aria-expanded="false" aria-controls="flush-collapse8">
+         Semana 18
+      </button>
+    </h2>
+    <div id="flush-collapse8" class="accordion-collapse collapse" aria-labelledby="flush-heading8" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: CONSUMO DE API REST Fecha: DEL 22 AL 28 DE MAYO</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading9">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse9" aria-expanded="false" aria-controls="flush-collapseSix">
+         Semana 19
+      </button>
+    </h2>
+    <div id="flush-collapse9" class="accordion-collapse collapse" aria-labelledby="flush-heading9" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: AUTENTICACION (LOGIN)  Fecha: DEL 29 DE MAYO AL 04 DE JUNIO</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading10">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse10" aria-expanded="false" aria-controls="flush-collapse0">
+          Semana 20
+      </button>
+    </h2>
+    <div id="flush-collapse10" class="accordion-collapse collapse" aria-labelledby="flush-heading10" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">Tema: DEL 05 AL 11 DE JUNIO Fecha: DEL 05 AL 11 DE JUNIO</div>
+    </div>
+  </div>
+
+<div class="col">
+    <div class="card border-primary mb-3">
+      <div class="card-body">
+        <h5 class="card-body text-primary">Investigaciones</h5>
+        <p class="card-text text-primary">*Validaciones con laravel<br/>
+*Consumo de API REST<br/>
+*Gerador de CRUD<br/>
+*Login con Facebook<br/>
+</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card border-dark mb-3">
+      <div class="card-body">
+        <h5 class="card-body text">Tareas Exaula</h5>
+        <p class="card-text text">Tareas Practicas <a href="https://github.com/Melvin565484/practicas.git" class="stretched-link">Practicas git</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
   </div>
 
   <div class="col">
@@ -196,6 +295,7 @@
   </div>
 </div>
 </div>
+
     </div>
   </div>
 
@@ -232,8 +332,10 @@ django-admin startapp Inicio</p>
 es completamente diferente a java<br/>
 
 bibliotecas- metodos - funciones</p>
+
   </div>
 </div>
+
     <div class="card-body">
     </div>
   </div>
@@ -316,6 +418,57 @@ php artisan make:model Pet<br/>
       </div>
   </div>
 </div>
+<div class="card-group">
+  <div class="card border-success">
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+  <div class="card-header">Apunte c3</div>
+  <div class="card-body">
+    <h5 class="card-title">Validaciones en Laravel</h5>
+    <p class="card-text">c:<br/>
+      Validación de lado del cliente (Javascript y etiquetas HTML)<br/>
+      Validación a nivel de base de datos (Migraciones y modelos)<br/>
+      Validación de formularios (Request) <br/>
+<br/> 
+<br/>
+</p>
+  </div>
+</div>
+    <div class="card-body">
+    </div>
+  </div>  
+  <div class="card border-success">
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+  <div class="card-header">Apunte c3</div>
+  <div class="card-body">
+    <h5 class="card-title">Token de seguridad</h5>
+    <p class="card-text"><br/>
+      La Autenticación Basada en Token es una forma común de autenticación que funciona mediante el
+intercambio de tokens entre el cliente y el servidor. Los tokens se utilizan para validar la identidad del
+usuario y proporcionar acceso a los recursos protegidos.<br/>
+</p>
+  </div>
+</div>
+    <div class="card-body">
+    </div>
+  </div>
+  <div class="card border-success">
+    <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+  <div class="card-header">Apuntes c3</div>
+  <div class="card-body">
+    <h5 class="card-title">API REST</h5>
+    <p class="card-text">Transferencia de estado representacional (REST) es un estilo arquitectónico para compilar servicios web.
+Normalmente, las solicitudes REST se realizan a través de HTTPS con los mismos verbos HTTP que los
+exploradores web usan para recuperar páginas web y enviar datos a servidores. Los verbos son: GET,
+POST, PUT, PATCH, DELETE<br/>
+
+      </p>
+  </div>
+</div>
+    <div class="card-body">
+      </div>
+  </div>
+</div>
+
 </template>
 
 <script>

@@ -22,6 +22,7 @@
     <p class="card-text">eventos y componentes desde como se crean hasta como se comunican entre si en el desarrollo </p>
     <p class="card-text">del proyecto junto con javascript comprendiendo sus caracteristicas</p>
     <p class="card-text">Continuando con el proyecto de vuejs actualizado computo II</p>
+    <p class="card-text">Finalizacion del Portafolio con contenidos nuevos del computo III</p>
     <a href="#" class="btn btn-primary"></a>
   </div>
 </div>

@@ -10,17 +10,6 @@
           <li class="nav-item" v-for="route in routes" :key="route">
               <router-link :to="route.path" class="nav-link">{{route.name}}</router-link>
           </li> 
-          <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Menu
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Otros</a></li>
-            <li><a class="dropdown-item" href="#">Acerca de nosotros</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Contactar</a></li>
-          </ul>
-        </li>    
       </ul>
       </div>
       <form class="d-flex">

@@ -5,6 +5,7 @@ import Contenido from './views/portafolio/contenido.vue';
 
 import Guia from './views/portafolio/guia.vue';
 import Guia1 from './views/portafolio/guia1.vue';
+import Guia2 from './views/portafolio/guia2.vue';
 
 export default createRouter({
     history: createWebHistory(),
@@ -32,6 +33,11 @@ export default createRouter({
             path: '/guia1',
             name: 'Guias CII',
             component: Guia1
+        },
+        {
+            path: '/guia2',
+            name: 'Guias CIII',
+            component: Guia2
         },
     ]
 });
